@@ -6,4 +6,4 @@ This project is a front-end clone of Amazon, created to enhance my HTML, CSS ski
 - Product Listing Page showcasing items.<br>
 - Product Detail Pages displaying individual item information with a detailed layout.<br>
 
-# This project helped me strengthen my knowledge of basic <br>design, flex systems, and interactive UI elements. It's <br> a key milestone in my web development journey.
+- This project helped me strengthen my knowledge of basic <br>design, flex systems, and interactive UI elements. It's <br> a key milestone in my web development journey.
